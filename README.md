@@ -1,4 +1,4 @@
-An Tinderesque app with swipable cards but for neighbors.
+An Tinderesque app for neighbors with swipable cards.
 
 ## Available Scripts
 
